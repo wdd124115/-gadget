@@ -1,5 +1,3 @@
-// dataAPI.js
-
 class Data {
     constructor(data) {
         this._data = data;
